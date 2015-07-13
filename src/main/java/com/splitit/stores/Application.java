@@ -3,7 +3,7 @@
  *   Copyright 2015 Mercury Solutions and its affiliates.
  * *******************************************************************************
  */
-package com.splitit.store;
+package com.splitit.stores;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;
