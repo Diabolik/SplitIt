@@ -1,0 +1,7 @@
+ 
+ *******************************************************************************
+    Copyright 2015 Mercury Solutions and its affiliates.
+ *******************************************************************************
+
+App version: ${application.version}  
+Spring boot version: ${spring-boot.version}
