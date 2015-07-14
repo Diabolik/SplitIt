@@ -1,1 +1,2 @@
-# Split It Stores API: Java Version
+# splitItStoresSpring
+Split It Stores API: Java Spring
